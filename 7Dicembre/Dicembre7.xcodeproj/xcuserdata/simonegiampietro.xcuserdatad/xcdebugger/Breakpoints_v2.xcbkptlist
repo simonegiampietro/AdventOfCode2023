@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FA52DA28-E322-425A-B817-46B117EF35CF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77AF535E-7E76-4B46-8CA1-4DA7C7074A77"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dicembre7/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "execute(part:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "77AF535E-7E76-4B46-8CA1-4DA7C7074A77 - 8224ea4ced935157"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicembre7.part1() -&gt; ()"
+                  moduleName = "Dicembre7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/simonegiampietro/dev/progetti/github/AdventOfCode2023/7Dicembre/Dicembre7/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "1736">
+               </Location>
+               <Location
+                  uuid = "77AF535E-7E76-4B46-8CA1-4DA7C7074A77 - 8224ea4ced935176"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicembre7.part1() -&gt; ()"
+                  moduleName = "Dicembre7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/simonegiampietro/dev/progetti/github/AdventOfCode2023/7Dicembre/Dicembre7/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "2040">
+               </Location>
+               <Location
+                  uuid = "77AF535E-7E76-4B46-8CA1-4DA7C7074A77 - 8224ea4ced935695"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicembre7.part1() -&gt; ()"
+                  moduleName = "Dicembre7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/simonegiampietro/dev/progetti/github/AdventOfCode2023/7Dicembre/Dicembre7/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "1916">
+               </Location>
+               <Location
+                  uuid = "77AF535E-7E76-4B46-8CA1-4DA7C7074A77 - 8224ea4ced9356d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicembre7.part1() -&gt; ()"
+                  moduleName = "Dicembre7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/simonegiampietro/dev/progetti/github/AdventOfCode2023/7Dicembre/Dicembre7/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "1968">
+               </Location>
+               <Location
+                  uuid = "77AF535E-7E76-4B46-8CA1-4DA7C7074A77 - e500cb3f8380f512"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicembre7.execute(part: Dicembre7.Part) -&gt; ()"
+                  moduleName = "Dicembre7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/simonegiampietro/dev/progetti/github/AdventOfCode2023/7Dicembre/Dicembre7/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "1688">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE368D68-56E7-4672-B4AF-0AF6A47885E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dicembre7/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "execute(part:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAFF78B5-CC2D-413D-B8FF-80DB46F698EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dicembre7/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "execute(part:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9FCD185-1EB3-4F22-96BF-41E7B5FEAA59"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dicembre7/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "partTwo(hand:bid:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9FCD185-1EB3-4F22-96BF-41E7B5FEAA59 - 29c16a22127c98d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Dicembre7.Hand.partTwo(hand: Swift.Array&lt;Swift.Character&gt;, bid: Swift.Int) -&gt; Dicembre7.Hand"
+                  moduleName = "Dicembre7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/simonegiampietro/dev/progetti/github/AdventOfCode2023/7Dicembre/Dicembre7/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "584">
+               </Location>
+               <Location
+                  uuid = "C9FCD185-1EB3-4F22-96BF-41E7B5FEAA59 - 29c16a22127c98d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Dicembre7.Hand.partTwo(hand: Swift.Array&lt;Swift.Character&gt;, bid: Swift.Int) -&gt; Dicembre7.Hand"
+                  moduleName = "Dicembre7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/simonegiampietro/dev/progetti/github/AdventOfCode2023/7Dicembre/Dicembre7/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "640">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00677D85-88D6-4293-AD4C-6A813F2929B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dicembre7/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "execute(part:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC3C0886-0C8D-4BD8-8A3C-6914C6B0F709"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dicembre7/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "execute(part:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
